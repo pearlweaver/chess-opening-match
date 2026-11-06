@@ -69,8 +69,3 @@ are much faster. The APK lands in `bin/`.
 `assets/stockfish_arm64` (copy-to-user-data) is kept for devices running
 Android 9 or older builds with `android.api <= 28`. It will fail with
 "Permission denied" on Android 10+.
-
-### license note
-
-Stockfish is GPL v3. Distributing it inside your APK means the app must
-be released under GPL-compatible terms.
