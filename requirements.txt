@@ -1,0 +1,3 @@
+# Desktop/dev requirements: pip install -r requirements.txt
+chess
+kivy

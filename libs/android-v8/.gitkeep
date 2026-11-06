@@ -1,0 +1,2 @@
+# placeholder so the directory is tracked; replace with the actual binary:
+#   mv stockfish-android-armv8 '<this dir>'/libstockfish.so
